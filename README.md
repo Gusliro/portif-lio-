@@ -32,7 +32,7 @@ Em um projeto acadêmico, implementei em **Python** um agente que prioriza suges
 
 | Projeto | Interface |
 | --- | --- |
-| **Latitude 180** | Repaginação do site original da agência em React e Vite, com navegação responsiva, roteiros e formulário de contato por e-mail ou WhatsApp. A repaginação foi descontinuada por decisão do cliente. [Site original da agência](https://www.latitude180.com.br/) |
+| **[Latitude 180](projetos/latitude-180.md)** | Repaginação do site da agência em React e Vite, com navegação responsiva, roteiros e formulário de contato por e-mail ou WhatsApp. A repaginação foi descontinuada por decisão do cliente. |
 | **[Biblioteca Virtual](projetos/biblioteca-virtual.md)** | Interface em JSP com estantes para livros lidos e em leitura, busca por título ou autor e painel com estatísticas da coleção. |
 | **Controle de Gastos** | Aplicação acadêmica em PHP com telas de login, formulário de despesas e painel financeiro. |
 | **Trabalhos de Programação Web** | Portfólio acadêmico com área de login. Outros exercícios incluem cadastro de usuários e CRUD de produtos em PHP. |
