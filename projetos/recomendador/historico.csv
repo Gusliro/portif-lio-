@@ -1,0 +1,7 @@
+usuario,momento,evento,conteudo_id,tempo_segundos
+perfil-demo,1,visualizacao,D01,140
+perfil-demo,2,recomendacao,D03,
+perfil-demo,3,ignorou_recomendacao,D03,
+perfil-demo,4,recomendacao,X01,
+perfil-demo,5,clique_recomendacao,X01,
+perfil-demo,6,visualizacao,X02,155
